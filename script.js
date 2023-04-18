@@ -8,7 +8,7 @@
 let finalDate = new Date();
 
 finalDate.setFullYear(2023, 3, 19);
-finalDate.setUTCHours(3, 0, 0, 0);
+finalDate.setUTCHours(-3, 0, 0, 0);
 
 let finalTimestamp = finalDate.getTime();
 
