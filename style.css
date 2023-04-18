@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+.colSpan {
+    color: red;
+}
+
+input {
+    font-size: 36px;
+    width: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.color {
+    background-color: #cc5858;
+}
